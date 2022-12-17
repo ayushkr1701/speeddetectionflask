@@ -3,6 +3,7 @@ cmake==3.25.0
 colorama==0.4.6
 dlib==19.24.0
 Flask==2.2.2
+wheel==0.38.4
 gunicorn==20.1.0
 importlib-metadata==5.1.0
 itsdangerous==2.1.2
